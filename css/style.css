@@ -1,0 +1,26 @@
+li{
+    display: inline;
+    margin:100px;
+    color:cornsilk;
+    text-align:justify;
+}
+ul{
+    margin-left: 10px;
+    background-color:black;
+}
+main img{
+    margin:20px;
+}
+section{
+    padding:25px;
+}
+main div{
+    text-align: justify;
+    margin-right: 510px;
+    margin-top: 5px;
+    width:30%;
+    float:right;
+    height: 400px;
+    overflow-y: scroll;
+}
+
